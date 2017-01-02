@@ -16,3 +16,4 @@ HTMLPreview.init() -> HTMLPreview.send(HTML) -> YQL fetch HTML -> HTMLPreview.lo
 ```
 
 **GitHub & BitBucket HTML Preview** was tested under Google Chrome, Apple Safari and Mozilla Firefox, and it should work with majority of websites, not only GitHub & BitBucket.
+
